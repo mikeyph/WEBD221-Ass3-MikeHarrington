@@ -1,0 +1,236 @@
+#header {
+	width: 100%;
+	height: 60px;
+	background-color: #343838;
+}
+
+#logo {
+	width: 30%;
+	float: left;
+	margin-left: 60px;
+}
+
+#nav-bar {
+	width: 60%;
+	float: right;
+	margin-top: 30px;
+}
+
+#nav-bar ul li{
+	display: inline;
+}
+
+#nav-bar ul li a {
+	color: #14b186;
+	text-decoration: none;
+	font-size: 1.3em;
+	font-family: Young;
+}
+
+#nav-bar ul li a:hover {
+	color: #343838;
+
+	-o-transition:color .5s ease-out;
+  	-ms-transition:color .5s ease-out;
+  	-moz-transition:color .5s ease-out;
+  	-webkit-transition:color .5s ease-out;
+  
+  	transition:color .5s ease-out;
+}
+
+#hero {
+	clear: both;
+	padding-left: 195px;
+	background-color: #4e5252;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#container {
+	background-color: #404949;
+	width: 100%;
+	height: 100%;
+}
+
+#container h2{
+	font-family: Young;
+	font-size: 2.2em;
+	color: #4bcb8d;
+}
+
+#container h3{
+	font-family: Amplify Personal Use Only;
+	font-size: 2em;
+	color: #14b186;
+}
+
+#about {
+	width: 40%;
+	float: left;
+	margin-left: 330px;
+	padding-top: 30px;
+}
+
+#about p {
+	font-family: Young;
+	color: #0f926e;
+}
+
+#about p a{
+	text-decoration: none;
+	color: #14b186;
+}
+
+#about p a:hover {
+	color: #404949;
+
+	-o-transition:color .5s ease-out;
+  	-ms-transition:color .5s ease-out;
+  	-moz-transition:color .5s ease-out;
+  	-webkit-transition:color .5s ease-out;
+  
+  	transition:color .5s ease-out;
+}
+
+#info {
+	clear: both;
+	background-color: #404949;
+	height: 330px;
+	margin-left: 300px;
+	padding-top: 30px;
+}
+
+#info p {
+	font-family: Young;
+	color: #0f926e;
+}
+
+#location {
+	width: 40%;
+	float: left;
+}
+
+#hours {
+	width: 50%;
+	float: right;
+}
+
+#footer {
+	clear: both;
+	width: 100%;
+	background-color: #343838;
+	height: 60px;
+}
+
+#footer p {
+	font-family: Young;
+	color: #0f926e;
+	margin-left: 493px;
+}
+
+#footer ul {
+	padding-top: 20px;
+	margin-left: 500px;
+}
+
+#footer ul li{
+	display: inline;
+}
+
+#footer ul li a {
+	color: #14b186;
+	text-decoration: none;
+	font-size: 1.3em;
+	font-family: Young;
+}
+
+#footer ul li a:hover {
+	color: #343838;
+
+	-o-transition:color .5s ease-out;
+  	-ms-transition:color .5s ease-out;
+  	-moz-transition:color .5s ease-out;
+  	-webkit-transition:color .5s ease-out;
+  
+  	transition:color .5s ease-out;
+}
+
+#soups {
+	padding-top: 30px;
+}
+
+#soups ul li {
+	display: inline-block;
+}
+
+#sushi {
+	padding-top: 30px;
+}
+
+#sushi ul li {
+	display: inline-block;
+}
+
+#handrolls {
+	padding-top: 30px;
+}
+
+#handrolls ul li {
+	display: inline-block;
+}
+
+#grilled {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#grilled ul li {
+	display: inline-block;
+}
+
+.formgroup {
+	padding-top: 10px;
+	margin-left: 50px;
+}
+
+.formgroup label {
+	font-family: Amplify Personal Use Only;
+	font-size: 2em;
+	color: #14b186;
+}
+
+.formgroup input {
+	width: 200px;
+	display: block;
+	border: 1px solid #999;
+	height: 25px;
+
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 5);
+	-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 5);
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 5);
+}
+
+.formgroup input:hover{
+	background: #fff;
+	color: #14b186;
+
+	-o-transition:color .5s ease-out;
+  	-ms-transition:color .5s ease-out;
+  	-moz-transition:color .5s ease-out;
+  	-webkit-transition:color .5s ease-out;
+  
+  	transition:color .5s ease-out;
+}
+
+.formgroup .btn {
+	width: 100px;
+	background: #14b186;
+	color: #fff;
+	font-family: Young;
+	height: 30px;
+
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: 1p solid #999;
+}

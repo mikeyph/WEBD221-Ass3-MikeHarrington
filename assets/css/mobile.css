@@ -1,0 +1,63 @@
+@media screen and (max-width:480px) {
+
+	#logo {
+		margin-left: 0px;
+	}
+
+	#nav-bar {
+		margin-right: -30px;
+	}
+
+	#nav-bar ul li a {
+		font-size: 1em;
+	}
+
+	#hero img {
+		height: 200px;
+		width: 480;
+		margin-left: -180px;
+	}
+
+	#about {
+		width: 480;
+		margin-left: 30px;
+		clear: both;
+	}
+
+	#about p {
+		width: 300px;
+	}
+
+	#about h3 {
+		width: 300px;
+	}
+
+	#location p {
+		width: 300px;
+	}
+
+	#location {
+		margin-left: -295px;
+		clear: both;
+	}
+
+	#hours {
+		float: left;
+		clear: both;
+		background-color: #404949;
+		margin-top: -270px;
+		margin-left: -30px;
+	}
+
+	#footer ul {
+		margin-left: 0;
+	}
+
+	#footer ul li a {
+		font-size: 1em;
+	}
+
+	#footer p {
+		margin-left: 0;
+	}
+}
